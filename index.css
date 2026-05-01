@@ -1,0 +1,156 @@
+ul{list-style-type: none;
+    display: flex;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 2.5px dotted;
+}
+h1{
+display: flex;align-items: center; justify-content: center; margin-top: 5vw;
+}
+ul li {
+    aspect-ratio: 1/1;
+    display: flex;
+    align-items: center;
+}
+ul img{
+width: 5vw;
+position: absolute;
+top:45em ;
+left: -10em;
+/* left: -10px;
+top: 45px; */
+transform: rotate(25deg);
+visibility: hidden; 
+}
+li:hover img{
+    visibility: visible;
+    width: 5vw;
+    position: absolute;
+    transform: rotate(25deg);
+}
+#li1:hover img{
+    left: -10px;
+    top: 45px;
+}
+#li2:hover img{
+    left: 360px;
+    top: 45px;
+}
+#li3:hover img{
+    left: 715px;
+    top: 45px;
+}
+#li4:hover img{
+    left: 1120px;
+    top: 45px;
+}
+ul a{
+
+    display: flex;
+    align-items: center;
+    color: darkgreen;
+    text-decoration: navy;
+    width: 100%;
+    height: 100%;
+}
+li:hover a{
+    border: 2px solid red;
+    border-radius: 100px;
+    }
+.where-container{   
+justify-content: center;
+flex-direction: column;
+}
+.where-container img{
+display: flex;
+justify-self: center;
+width: 50vw;
+}
+.where-container .where{
+justify-self: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

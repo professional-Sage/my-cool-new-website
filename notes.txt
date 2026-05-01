@@ -1,0 +1,29 @@
+the notes for html basics!
+h1: big header, or big header.
+h2: slightly smaller header.
+h3: just smaller and smaller header.
+h4: super duper small header.
+(for all the h stuff they are automatically bolded)
+
+p: this is a paragraph.
+(p is not automatically bolded)
+
+a: hyperlink, or link to another page.
+
+ul: unordered list
+
+li: a list item
+
+.class : this is a new class its just a dot I didn't forget to write something. Also, you can name the class when I say class it doesn't have to just be named class.
+
+
+img: this is a image tag. there is no open/closing tag <.img> they use a src attrabute smth like src="name of img"
+
+
+
+
+
+
+
+
+
