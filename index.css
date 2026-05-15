@@ -26,25 +26,25 @@ visibility: hidden;
 }
 li:hover img{
     visibility: visible;
-    width: 5vw;
+    width: 50px;
     position: absolute;
     transform: rotate(25deg);
 }
 #li1:hover img{
-    left: -10px;
-    top: 45px;
+    left: 0vw;
+    top: 3.5vh;
 }
 #li2:hover img{
-    left: 360px;
-    top: 45px;
+    left: 31vw;
+    top: 3.5vh;
 }
 #li3:hover img{
-    left: 715px;
-    top: 45px;
+    left: 61.5vw;
+    top: 3.5vh;
 }
 #li4:hover img{
-    left: 1120px;
-    top: 45px;
+    left: 94vw;
+    top: 3.5vh;
 }
 ul a{
 
